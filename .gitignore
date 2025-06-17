@@ -1,0 +1,8 @@
+.venv
+.idea
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.jupyter/
+.ipynb_checkpoints/
+.virtual_documents
+untitled.ipynb
