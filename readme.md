@@ -5,6 +5,9 @@
 
 ## 🔍 Overview
 RwandaCropGuard is a deep learning-powered solution for classifying crop diseases from leaf images, specifically designed to address agricultural challenges in Rwanda. This system compares multiple neural network architectures and traditional machine learning approaches to deliver optimal performance for field deployment.
+
+#### Video Link
+<a href="https://youtu.be/DGb6aeR31kQ" target="_blank" >Youtube Video Link for Explaination</a>
 ## dataset overview
 I used a Kaggle dataset with 1,532 images across three classes: Healthy, Powdery, and Rust leaves. Images were resized to 128x128px and normalized. The data was split into 70% training, 15% validation, and 15% test sets - crucial for reliable evaluation.
 ## 📊 Model Performance Summary
