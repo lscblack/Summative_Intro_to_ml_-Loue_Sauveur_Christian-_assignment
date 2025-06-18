@@ -66,7 +66,7 @@ weighted avg     0.79      0.79      0.78       307
 
 ## 📂 Project Structure
 ```
-RwandaCropGuard/
+Summative_Intro_to_ml_-Loue_Sauveur_Christian-_assignment/
 ├── dataset/train/
 │   ├── Healthy/      
 │   └── Powdery/   
@@ -82,8 +82,8 @@ RwandaCropGuard/
 
 ## 🚀 Installation & Usage
 ```bash
-git clone https://github.com/yourusername/RwandaCropGuard
-cd RwandaCropGuard
+git clone https://github.com/lscblack/Summative_Intro_to_ml_-Loue_Sauveur_Christian-_assignment
+cd Summative_Intro_to_ml_-Loue_Sauveur_Christian-_assignment
 pip install -r requirements.txt
 
 # To use the best model:
